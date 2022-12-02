@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url('../../images/hur_o.jpg');
+    url('../../images/17c\ Namibianer20190809-002.jpg');
 
   background-position: center center;
   background-size: cover;
@@ -252,4 +252,25 @@ body.page-template-page-fullsingle-me h1 {
   fill: var(--secondary-color);
   -webkit-transition: 0.1s;
   transition: 0.1s;
+}
+/*
+selektor {
+  eigenschaft: wert;
+}*/
+h1 {
+  color: rgb(19, 231, 30);
+}
+/*
+selektor {
+  eigenschaft: wert;
+}*/
+h2 {
+  color: rgb(10, 71, 25);
+}
+/*
+selektor {
+  eigenschaft: wert;
+}*/
+p {
+  color: rgb(216, 74, 140);
 }
